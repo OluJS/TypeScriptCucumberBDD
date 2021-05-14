@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "browserify": "^17.0.0",
-    "cypress": "^7.3.0",
     "cypress-cucumber-preprocessor": "^4.1.0",
     "cypress-xpath": "^1.6.2",
     "tsify": "^5.0.4",
@@ -19,7 +18,9 @@
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OluJS/TypeScriptCucumberBDD.git"
