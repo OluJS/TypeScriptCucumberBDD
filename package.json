@@ -18,5 +18,14 @@
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OluJS/TypeScriptCucumberBDD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OluJS/TypeScriptCucumberBDD/issues"
+  },
+  "homepage": "https://github.com/OluJS/TypeScriptCucumberBDD#readme"
 }
