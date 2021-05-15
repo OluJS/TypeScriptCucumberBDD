@@ -37,3 +37,5 @@
    ```
    npx cypress open
    ```
+   
+   ![TestRunnerGif](TestRunner.gif)
