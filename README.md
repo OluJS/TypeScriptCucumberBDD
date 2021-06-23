@@ -20,7 +20,7 @@
    npm install cypress cypress-cucumber-preprocessor browserify typescript tsify cypress-xpath
    ```
 
-## Usage
+### Usage
    To run the feature file tests in headless mode, once again make sure you're at the root of the project folder and type into the terminal:
    ```
    ./node_modules/.bin/cypress run
